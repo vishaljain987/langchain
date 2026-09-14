@@ -20,3 +20,6 @@ huggingface-hub
 
 # Environment Variable Management
 python-dotenv
+
+numpy
+scikit-learn
